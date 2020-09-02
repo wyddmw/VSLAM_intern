@@ -1,0 +1,3 @@
+/home/spyder/VSLAM_intern/image2poind/sgbm_matching/build/CMakeFiles/rebuild_cache.dir
+/home/spyder/VSLAM_intern/image2poind/sgbm_matching/build/CMakeFiles/stereo.dir
+/home/spyder/VSLAM_intern/image2poind/sgbm_matching/build/CMakeFiles/edit_cache.dir
